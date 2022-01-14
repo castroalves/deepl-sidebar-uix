@@ -1,8 +1,11 @@
 {
-  "name": "deepl-sidebar-uix",
+  "name": "graphcms-ui-extension-boilerplate",
+  "description": "GraphCMS UI Extension boilerplate",
+  "author": "Cadu de Castro Alves <cadu.alves@graphcms.com>",
   "version": "0.1.0",
-  "private": true,
+  "keywords": ["graphcms", "boilerplate", "react", "ui-extensions"],
   "dependencies": {
+    "@graphcms/uix-react-sdk": "^0.2.0-alpha.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
